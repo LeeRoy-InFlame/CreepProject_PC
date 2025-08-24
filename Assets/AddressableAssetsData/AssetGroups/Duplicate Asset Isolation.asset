@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Duplicate Asset Isolation
+  m_EditorClassIdentifier: 
+  m_GroupName: Duplicate Asset Isolation
+  m_GUID: 39417eb6e562c734c8a2573500cc32dd
+  m_SerializeEntries:
+  - m_GUID: 0c1d8dfaab2e5bf4e89630306db9e6ef
+    m_Address: Assets/Audio/Music/RunRobot Ministry - N.W.O..mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0dc4b7ca817dcaa46a8792a23924b3e4
+    m_Address: Assets/Audio/Music/LevelMusic.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e729bebcaea4a74e925885e2ad30551
+    m_Address: Assets/Audio/Music/MainMenu Creep (Acoustic).mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2df54a18efdf5e74bb14eaf9c02ed294
+    m_Address: Assets/Timelines/Signals/PlayMusic.signal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37b41ec02df7c8d4a8f10dbd1d5d7d37
+    m_Address: Assets/Timelines/Cutscene 1.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37d0e95091efaf64caf677b750cd612d
+    m_Address: Assets/Timelines/Signals/NextCutscene.signal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38e377b56978fbc4699461c7861e5689
+    m_Address: Assets/Audio/Music/BeginCutsceneMusic.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3baa1cb720237a2468f4bf623f6d0b66
+    m_Address: Assets/Animations/Other/FireStarship.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4100b4054232df940ac235cd7e1ba58d
+    m_Address: Assets/Timelines/Cutscene 3.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cda93ca255221d4a9956af5d1e0d24a
+    m_Address: Assets/Timelines/Signals/StartDialogue.signal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65de65a3030653b41a4f1ff7fb6b87eb
+    m_Address: Assets/Audio/Music/End 8-Bit Creep.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71a244e7b7ff6f14dadfbaa935c56ba7
+    m_Address: Assets/Timelines/Signals/StopMusic.signal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c9168a0e79ae1b40a89439e54fe3756
+    m_Address: Assets/Image/BackgrounSpace 2.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86dd7dc47e8a22b46bb5c58159c15f04
+    m_Address: Assets/Sprites/Explosion/explosion2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9363dc6fe0dce7647a791bd53ed1a164
+    m_Address: Assets/Animations/Other/FireStarship.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c880715d87b121a43ac6bbe7cef3abd8
+    m_Address: Assets/UI/DialoguePanel.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0a34105e4889f749b0b25e03b9bca86
+    m_Address: Assets/Sprites/SpaceShip/2DSpaceshipsFreeTrialAtlasSideViewBlue2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d58cb2a771c8d5748a1af5df62eeb444
+    m_Address: Assets/Sprites/Explosion/explosion1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3265ab4bf004d28a9537516768c1c75
+    m_Address: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea1ec821471f11f4fb5580eb3c8a2899
+    m_Address: Assets/Timelines/Signals/NextLevelSignal.signal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe393ace9b354375a9cb14cdbbc28be4
+    m_Address: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 76a4b8af60a171e489434c1ab1a9b6ae, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 046ea2cf9beb4ca41b63e41ba040f03c, type: 2}
+    - {fileID: 11400000, guid: 727f8d6fee42d8e4684631fde36f01ee, type: 2}

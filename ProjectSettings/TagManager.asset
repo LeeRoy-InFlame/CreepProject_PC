@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - GroundPlayerCollider
+  - Bullet
+  - Enemy
+  - PlayerBody
+  - EnemyStopper
+  - Water
+  - KillRock
+  - Checkpoint
+  - Medkit
+  - Ammo
+  - Canvas
+  - GameOverScreen
+  - PlayableDirector
+  - EnemyBullet
+  - Platform
+  - Score
+  - Dialogue
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Bullet
+  - Player
+  - Enemy
+  - Harmless
+  - PlayerGround
+  - EnemyGround
+  - EnemyBullet
+  - Background
+  - CameraConfiner
+  - PostProcessing
+  - PushWall
+  - TriggerEnemy
+  - IgnoreGround
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 726100469
+    locked: 0
+  - name: Slime
+    uniqueID: 1652724565
+    locked: 0
+  - name: Particle
+    uniqueID: 418932017
+    locked: 0
+  - name: Object
+    uniqueID: 2945289537
+    locked: 0
+  - name: Ground
+    uniqueID: 513615013
+    locked: 0
+  - name: Enemy
+    uniqueID: 1297508795
+    locked: 0
+  - name: Player
+    uniqueID: 2398213743
+    locked: 0
+  - name: Water
+    uniqueID: 3360347517
+    locked: 0
+  - name: ObjectsInTheForeground
+    uniqueID: 3670958829
+    locked: 0
+  m_RenderingLayers:
+  - Default

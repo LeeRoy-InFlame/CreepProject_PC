@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: BeginCutscene
+  m_EditorClassIdentifier: 
+  m_GroupName: BeginCutscene
+  m_GUID: 22cb0b94f386cc64b9be34e66538c06c
+  m_SerializeEntries:
+  - m_GUID: 0a877809c4943f04a9723d966cbbf7ba
+    m_Address: BeginCutscene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 76a4b8af60a171e489434c1ab1a9b6ae, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 226244e70e7659846a01d9dc50596fa8, type: 2}
+    - {fileID: 11400000, guid: 4856ee12c15764b48a31cdaf956a2b68, type: 2}
